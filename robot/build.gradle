@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'xyz.hanifdwyputra'
+version '1.0-SNAPSHOT'
+
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'net.dv8tion:JDA:4.2.0_189'
+}
